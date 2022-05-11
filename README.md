@@ -4,13 +4,13 @@
 
 ## 内容要求
 
-调研的领域可以是任意和体系结构相关的工作。我们提供了一些领域参考：
+调研的领域可以是任意和体系结构相关的工作，例如
 
 - The Berkeley Out-of-Order Machine (BOOM) [https://boom-core.org/index](https://boom-core.org/index)
 
 ## 报告格式
 
-格式不限。本处提供一个用于 Overleaf 的、魔改后的 ACM 单栏格式报告以参考。
+格式不限。此处提供一个用于 Overleaf 的、魔改后的 ACM 单栏格式报告以参考。
 
 https://www.overleaf.com/read/bgmsqrqgkcjv
 
