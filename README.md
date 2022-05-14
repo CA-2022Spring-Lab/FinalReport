@@ -15,3 +15,7 @@
 https://www.overleaf.com/read/bgmsqrqgkcjv
 
 从 Overleaf 处点击左上角下载报告源文件，然后自行创建一个新的 blank project 并导入该 zip 文件。Compiler 使用 XeLaTeX，在 Tex Live Version 2019 下编译通过。
+
+## 字数要求
+
+无字数要求。将调研对象描述清楚、完整即可。
