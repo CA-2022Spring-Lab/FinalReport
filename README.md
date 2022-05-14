@@ -18,4 +18,4 @@ https://www.overleaf.com/read/bgmsqrqgkcjv
 
 ## 字数要求
 
-无字数要求。将调研对象描述清楚、完整即可。
+图文 4 页以上。将调研对象描述清楚、完整即可。
